@@ -1,2 +1,2 @@
 # 11685_HW5
-HW5 from 11685 course, Listen, Attend and Spell implementation with GANs
+HW5 from 11685 course, GAN/VAEs implementation with GANs

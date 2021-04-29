@@ -10,6 +10,9 @@ Ideas for improvements:
 - in SRGAN Generator, where does it add the global skip connection??? (elementwise sum?)
 - in 
 
+- same LR for GEn and Discriminator ?
+
+
 
 To do list:
 - present autoencoder implementation

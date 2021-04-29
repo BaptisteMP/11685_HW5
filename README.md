@@ -8,7 +8,15 @@ Ideas for improvements:
 
 
 - in SRGAN Generator, where does it add the global skip connection??? (elementwise sum?)
-- in 
+
+- From Rylan:
+  - add in Wassertein GAN
+  - add gradient clipping
+  - find a published GAN training routine
+  - Compare with code from recitation
+
+- from the paper (but not mentioned by the TA, so it may not be relevant):
+  - their implementation of SRGAN's generator net has 16 building blocks, we only have 6 in current implementation.
 
 - same LR for GEn and Discriminator ?
 

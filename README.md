@@ -1,6 +1,7 @@
 # 11685_HW5
 HW5 from 11685 course, GAN/VAEs implementation with GANs
 
+Drive project repo: https://drive.google.com/drive/folders/1KpDmxM7pHKPXjjZBLHwq6pcKIAK4I06n?usp=sharing
 
 Ideas for improvements:
 

@@ -18,6 +18,8 @@ Ideas for improvements:
 - from the paper (but not mentioned by the TA, so it may not be relevant):
   - their implementation of SRGAN's generator net has 16 building blocks, we only have 6 in current implementation.
 
+
+- should we implement the phi_5,4 loss supposed to be more representative of visual perception / higher level picture features?
 - same LR for GEn and Discriminator ?
 
 

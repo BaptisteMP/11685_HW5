@@ -16,8 +16,7 @@ Ideas for improvements:
   - find a published GAN training routine
   - Compare with code from recitation
 
-- in his code we are only using the first image all the time?!!! (don't know if that was on purpose or not)
-- Changing that
+
 
 - from the paper (but not mentioned by the TA, so it may not be relevant):
   - their implementation of SRGAN's generator net has 16 building blocks, we only have 6 in current implementation.
